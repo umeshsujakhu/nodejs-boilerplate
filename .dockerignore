@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+dist
+.git
+.gitignore
+.env
+.env.example
+.eslintrc.json
+.husky
+README.md
+uploads/*
+!uploads/.gitkeep 
