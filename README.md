@@ -34,7 +34,7 @@ A complete Node.js API boilerplate with Express and TypeScript, including user a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/node-boilerplate.git
+   git clone https://github.com/umeshsujakhu/node-boilerplate.git
    cd node-boilerplate
    ```
 
